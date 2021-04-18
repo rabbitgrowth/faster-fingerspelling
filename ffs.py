@@ -36,6 +36,7 @@ LEFT = (('S',     's'),
         ('TW',    'tw'),
         ('TH',    'th'),
         ('THR',   'tl'),   # thr? but tle is useful
+        ('TR',    'tr'),
         ('K',     'k'),
         ('KP',    'x'),
         ('KPW',   'imp'),  # imb? emp? emb?
